@@ -37,11 +37,11 @@ The main objective of this project is to:
   </tr>
   <tr>
     <td>Input Method</td>
-    <td>Command Line Interface</td>
+    <td>CLI / GUI</td>
   </tr>
   <tr>
     <td>Data File</td>
-    <td>Common_Passwords.txt</td>
+    <td>Common_Passwords.txt / blacklist.txt</td>
   </tr>
 </table>
 
